@@ -1,0 +1,15 @@
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.csproj.AssemblyReference.cache
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.AssemblyInfoInputs.cache
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.AssemblyInfo.cs
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.csproj.CoreCompileInputs.cache
+C:\CSharp\desafio-logica\bin\Debug\net6.0\desafio-logica.exe
+C:\CSharp\desafio-logica\bin\Debug\net6.0\desafio-logica.deps.json
+C:\CSharp\desafio-logica\bin\Debug\net6.0\desafio-logica.runtimeconfig.json
+C:\CSharp\desafio-logica\bin\Debug\net6.0\desafio-logica.dll
+C:\CSharp\desafio-logica\bin\Debug\net6.0\desafio-logica.pdb
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.dll
+C:\CSharp\desafio-logica\obj\Debug\net6.0\refint\desafio-logica.dll
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.pdb
+C:\CSharp\desafio-logica\obj\Debug\net6.0\desafio-logica.genruntimeconfig.cache
+C:\CSharp\desafio-logica\obj\Debug\net6.0\ref\desafio-logica.dll
